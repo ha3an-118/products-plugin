@@ -14,6 +14,7 @@
      'has_archive' => true,
      'menu_position' => 10,
      'supports' =>array(
+       'title',
        'author',
        'editor',
        'page-attributes',
